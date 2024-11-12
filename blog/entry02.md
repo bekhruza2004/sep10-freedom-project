@@ -3,11 +3,9 @@
 
 ## Content
 
-In my exploration of software and hardware technologies relevant to our project, I discovered a variety of tools and platforms that can enhance our development process. Specifically, I researched:
+In my recent research on software and hardware technologies pertinent to our animation project, I discovered several invaluable tools. One standout software is **Procreate**, a professional drawing app tailored for the iPad, which offers customizable brushes, high-resolution canvases, and user-friendly multi-touch gestures, making it ideal for artists and illustrators. Additionally, **Pencil2D** emerged as a great open-source option for 2D animation, featuring a simple interface for beginners, layering options for drawings and sounds, and export capabilities to movie formats. Another powerful tool is **OpenToonz**, a free animation production software known for advanced traditional animation tools and robust integration with studio workflows.
 
-Software Technologies: We are looking into cloud computing services like AWS and Microsoft Azure, which offer robust infrastructure and flexibility for deployment. Additionally, I analyzed different programming frameworks such as React for front-end development and Node.js for back-end operations. These frameworks allow for efficient coding practices, reducing time spent on development while increasing functionality.
-
-Hardware Technologies: I investigated various microcontrollers and development boards, such as Arduino and Raspberry Pi, which can be instrumental in prototyping. These devices provide an excellent platform for testing our ideas in a real-world environment and offer numerous community resources for troubleshooting and guidance.
+On the hardware side, I found **Huion Kamvas Pro**, a versatile pen display tablet known for its wide color gamut and customizable controls, making it an excellent choice for digital artists. The **MPC One Sampler/Sequencer** also caught my attention as a standalone music production center that can enhance our animated projects with rich soundscapes. For 3D modeling and animation, the **3Dconnexion SpaceMouse** offers intuitive navigation, while the high-performance **NVIDIA RTX Series graphics cards** are crucial for rendering complex animations in real-time. Lastly, **Canon EOS Series cameras** are frequently used for high-quality stop motion animation, ensuring that our visual storytelling is both dynamic and engaging. This collection of software and hardware will significantly inform and elevate our animation process as we move forward. 
 
 ## EDP
 
