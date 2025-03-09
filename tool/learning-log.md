@@ -2,9 +2,16 @@
 
 ## Tool: **Bulma**
 
----
+## Sources:
 
-### X/X/XX:
+[YouTube Bulma CSS Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a)  
+
+[Bulma Documentation](https://bulma.io/documentation/)
+
+### 3/3/25:
+
+### Learned
+
 * Text
 
 ### X/X/XX:
