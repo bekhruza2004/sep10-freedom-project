@@ -29,7 +29,46 @@
 
 ### 3/16/25:
 
-* Text
+* Desktop Navbar: The desktop navbar is a horizontal navigation bar typically displayed at the top of the webpage. It is designed for larger screens, such as laptops and desktops, providing easy access to various sections of the site. The desktop navbar often includes branding, links, and sometimes dropdown menus for more options.
+
+```
+<nav class="navbar">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="#">Brand</a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item" href="#">Home</a>
+      <a class="navbar-item" href="#">About</a>
+      <a class="navbar-item" href="#">Services</a>
+      <a class="navbar-item" href="#">Contact</a>
+    </div>
+  </div>
+</nav>
+```
+
+* Mobile Navbar: The mobile navbar adapts to smaller screen sizes by collapsing into a more compact format. Typically, it features a hamburger menu icon that, when clicked, reveals the navigation links.
+
+```
+<nav class="navbar">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="#">Brand</a>
+    <a class="navbar-burger" role="button" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item" href="#">Home</a>
+      <a class="navbar-item" href="#">About</a>
+      <a class="navbar-item" href="#">Services</a>
+      <a class="navbar-item" href="#">Contact</a>
+    </div>
+  </div>
+</nav>
+```
 
 
 <!-- 
