@@ -72,6 +72,28 @@
 
 ### 3/23/25:
 
+* Basic Structure: Breadcrumbs use a `<nav>` container with an unordered list `<ul>`, where each item `<li>` represents a step in navigation, with the current page marked by the `is-active` class.  
+
+```
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li class="is-active"><a href="#">Current Page</a></li>
+  </ul>
+</nav>
+```
+
+* Separator Styles: Bulma allows different separator styles, such as `has-arrow-separator` and `has-dot-separator`, to customize the appearance of breadcrumbs.  
+
+```
+<nav class="breadcrumb has-dot-separator" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li class="is-active"><a href="#">Current Page</a></li>
+  </ul>
+</nav>
+```
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
