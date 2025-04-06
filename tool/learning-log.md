@@ -96,6 +96,17 @@
 
 ### 4/6/25:
 
+* Grid columns in Bulma are essential for creating responsive layouts. Each grid column can take a specific width and can be made responsive through classes that adjust the layout across different screen sizes.
+
+* You can create columns using column classes. They can be customized with size classes like is-half, is-one-third, etc.
+
+```
+<div class="columns">
+  <div class="column is-half">Column 1</div>
+  <div class="column is-half">Column 2</div>
+</div>
+```
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
