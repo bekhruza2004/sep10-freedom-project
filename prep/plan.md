@@ -15,9 +15,9 @@
 
 #### MVP
 
-* Task/Timeline
-
----
+* 4/28 - Add Navbar
+* 4/29 - Add Content and Images
+* 4/30 - Add rest of the necessary components   
 
 #### Beyond MVP
 
