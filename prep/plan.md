@@ -8,7 +8,8 @@
 * `#ABC123`
 
 ## Fonts
-* [Text](URL)
+* [Sometype Mono](https://fonts.google.com/specimen/Sometype+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace;Sans+Serif:%2FSans%2FHumanist)
+* [Funnel Display](https://fonts.google.com/specimen/Funnel+Display?lang=en_Latn&categoryFilters=Feeling:%2FExpressive%2FCalm)
 
 ## Timeline
 
@@ -20,7 +21,8 @@
 
 #### Beyond MVP
 
-* Task
+* Fix any issues
+* Add more components
 
 
 
