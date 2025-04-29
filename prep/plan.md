@@ -5,7 +5,9 @@
 * [Desktop](desktop.png)
 
 ## Colors
-* `#ABC123`
+* `#cce7ff`
+* `#e2d6ff`
+* `#e6f4ff`
 
 ## Fonts
 * [Sometype Mono](https://fonts.google.com/specimen/Sometype+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace;Sans+Serif:%2FSans%2FHumanist)
