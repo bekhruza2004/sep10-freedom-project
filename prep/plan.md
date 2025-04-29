@@ -19,7 +19,8 @@
 
 * 4/28 - Add Navbar
 * 4/29 - Add Content and Images
-* 4/30 - Add rest of the necessary components   
+* 4/30 - Add rest of the necessary components
+* 5/1 - Add font and colors   
 
 #### Beyond MVP
 
