@@ -9,21 +9,148 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
         <style>
             /* CSS */
-            
+
         </style>
-        
-        <title>Title</title>
+
     </head>
     <body>
-        <!-- HTML -->
-        
-        
+        <title>Freedom Project</title>
+  <link href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" rel="stylesheet" />
+
+  <!-- Navbar -->
+  <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <div class="container is-fluid">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="#"><strong>Animation</strong></a>
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="mobileMenu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <!-- Desktop Navbar -->
+      <div class="navbar-menu is-active-desktop">
+        <div class="navbar-end">
+          <a class="navbar-item" href="#topic">Topic</a>
+          <a class="navbar-item" href="#overview">Overview</a>
+          <a class="navbar-item" href="#context">Context</a>
+          <a class="navbar-item" href="#present">Inventions</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Mobile Dropdown -->
+  <div id="mobileMenu" class="navbar-menu fullscreen">
+    <button class="close-btn" id="closeMenu">✕</button>
+    <a class="navbar-item" href="#topic">Topic</a>
+    <a class="navbar-item" href="#overview">Overview</a>
+    <a class="navbar-item" href="#context">Context</a>
+    <a class="navbar-item" href="#present">Inventions</a>
+  </div>
+
+  <!-- Sections -->
+  <section id="title" class="section has-text-centered">
+    <div class="container">
+      <h1 class="title is-3">Animation</h1>
+    </div>
+  </section>
+
+  <section id="topic" class="section">
+    <div class="container">
+      <div class="box">
+        <h2 class="title is-4">TOPIC</h2>
+      </div>
+    </div>
+  </section>
+
+  <section id="overview" class="section">
+    <div class="container">
+      <div class="box">
+        <h3 class="title is-5">Overview</h3>
+      </div>
+    </div>
+  </section>
+
+  <section id="context" class="section">
+    <div class="container">
+      <div class="box">
+        <h3 class="title is-5">Context</h3>
+      </div>
+    </div>
+  </section>
+
+  <section id="present" class="section">
+    <div class="container">
+      <div class="columns is-multiline">
+        <div class="column is-4-desktop is-12-mobile">
+          <div class="box">
+            <h4 class="title is-6">Present Invention 1</h4>
+            <div class="image-placeholder">Image</div>
+          </div>
+        </div>
+        <div class="column is-4-desktop is-12-mobile">
+          <div class="box">
+            <h4 class="title is-6">Present Invention 2</h4>
+            <div class="image-placeholder">Image</div>
+          </div>
+        </div>
+        <div class="column is-4-desktop is-12-mobile">
+          <div class="box">
+            <h4 class="title is-6">Present Invention 3</h4>
+            <div class="image-placeholder">Image</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="future" class="section">
+    <div class="container">
+      <div class="box">
+        <h3 class="title is-5">Future Invention</h3>
+        <div class="image-placeholder">Image</div>
+        <p class="mt-2">Description of image</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="back-to-top">
+    <a href="#title" class="button is-link is-light is-small">Back to Top</a>
+  </div>
+
+  <!-- JS -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const burger = document.querySelector('.navbar-burger');
+      const menu = document.getElementById('mobileMenu');
+      const closeBtn = document.getElementById('closeMenu');
+      const links = menu.querySelectorAll('.navbar-item');
+
+      burger.addEventListener('click', () => {
+        menu.classList.add('is-active');
+      });
+
+      closeBtn.addEventListener('click', () => {
+        menu.classList.remove('is-active');
+      });
+
+      links.forEach(link => {
+        link.addEventListener('click', () => {
+          menu.classList.remove('is-active');
+        });
+      });
+    });
+  </script>
+
+
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-            
-            
+
+
         </script>
     </body>
 </html>
