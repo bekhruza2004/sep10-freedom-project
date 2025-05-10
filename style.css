@@ -79,21 +79,6 @@ body {
     padding: 2rem 1rem;
   }
 
-  .equal-height-columns {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.equal-height-columns .column {
-  display: flex;
-}
-
-.equal-height-columns .box {
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-}
-
 h1 {
   font-family: "Sometype Mono", monospace;
 }
