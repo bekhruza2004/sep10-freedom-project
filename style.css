@@ -93,3 +93,23 @@ body {
   flex-direction: column;
   flex-grow: 1;
 }
+
+h1 {
+  font-family: "Sometype Mono", monospace;
+}
+
+h3 {
+  font-family: "Funnel Display", sans-serif;
+}
+
+p {
+  font-family: "Funnel Display", sans-serif;
+}
+
+h4 {
+  font-family: "Funnel Display", sans-serif;
+}
+
+a {
+  font-family: "Sometype Mono", monospace;
+}
