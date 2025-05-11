@@ -7,6 +7,41 @@ My MVP is a website that talks about animation technology. A big challenge I fac
 
 Here is the final code:
 
+```
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const burger = document.querySelector('.navbar-burger');
+      const menu = document.getElementById('mobileMenu');
+      const closeBtn = document.getElementById('closeMenu');
+      const links = menu.querySelectorAll('.navbar-item');
+
+      burger.addEventListener('click', () => {
+        menu.classList.add('is-active');
+      });
+
+      closeBtn.addEventListener('click', () => {
+        menu.classList.remove('is-active');
+      });
+
+      links.forEach(link => {
+        link.addEventListener('click', () => {
+          menu.classList.remove('is-active');
+        });
+      });
+    });
+  </script>
+```
+
+## Takeaway
+I learned how to manually add JavaScript behavior for components that Bulma styles but doesn’t handle. And the value of testing across devices early, mobile issues are easier to fix when caught early in the process.
+
+## EDP
+
+In the engineering design process I am at the improve as need step because I have finished everything required for the MVP now I just need to fix any issues and add beyond MVP.
+
+## Skills
+
+While working on my MVP I've been developing skills that will help me outside of this project too. One of those is problem decomposition. When something feels overwhelming I’ve learned to break the task into smaller parts to complete. Another skill I’ve been getting better at is debugging. I read errors carefully, then tinker, and watch the result. It has helped me get more comfortable with things not working the first time. I’ve learned to stay patient.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
