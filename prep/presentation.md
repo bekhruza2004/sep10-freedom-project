@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I’ll start by talking to the audience about animation and how it’s used in movies, games, and websites to grab their interest. Then I’ll explain that I built a website to explore and explain animation.
 
 ## Product
-* 
+* I’ll share my screen and show snippets of my code. I’ll explain simply what each part does like how I made things function on the site.
 
 ## Process
-* 
+* I’ll show how I built the website writing the code.  I’ll switch between showing the code and showing how it looks on the actual website.
 
 ## Conclusion
-* 
+* To wrap up I’ll summarize what I made.
 
 <!-- EXAMPLE
 
