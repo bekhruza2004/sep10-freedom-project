@@ -22,6 +22,8 @@ I got better at debugging by learning how to read errors and fix problems by try
 
 The purpose of the Freedom Project was to create an informal website that talks about present and future technology related to a topic you are interested in. I chose animation because it’s something I’m really interested in. Throughout the year I worked on the project and took notes on blogs like a journal. I started by researching current technology used in animation and then came up with an idea for a future invention. I also learned how to use tools like HTML, CSS, an IDE for GitHub, and a personal tool which for me was Bulma CSS to build the final project. My project could have a positive impact on society by showing how animation technology can grow and help people understand stories better. A possible negative impact is that some people might rely on future tools and forget to build actual skills for animation.
 
+Here is my final project: [SEP10 Freedom Project](https://bekhruza2004.github.io/sep10-freedom-project/)
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
