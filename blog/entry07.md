@@ -3,7 +3,7 @@
 
 ## Content
 
-When I gave my Expo elevator pitch, I realized I should have explained my future invention in more detail. I didn’t talk enough about how it could be used later on. This made it harder for people to see how useful it could be. During my in-class presentation, I learned that I need to make better eye contact. I also need to speak louder so everyone can hear me. These are things I should work on to improve my presentations in the future.
+When I gave my Expo elevator pitch I realized I should have explained my future invention in more detail. I didn’t talk enough about how it could be used later on. This made it harder for people to see how useful it could be. During my in-class presentation I learned that I need to make better eye contact. I also need to speak louder so everyone can hear me. These are things I should work on to improve my presentations in the future.
 
 ## EDP
 
@@ -15,8 +15,12 @@ I got better at debugging by learning how to read errors and fix problems by try
 
 ## Sources
 
-[Notes](https://docs.google.com/document/d/1hECCeDZfiV4v6THbE8v8uXW5KZ4v2dWNuSPlisRuh0w/edit?tab=t.0)
-[Presentation](https://docs.google.com/presentation/d/1cD3eTXRKkwDxhWWmHUZalzYyfW9LnDOphEgxXxcn4SI/edit?slide=id.g35a0cee722b_0_0#slide=id.g35a0cee722b_0_0)
+* [Notes](https://docs.google.com/document/d/1hECCeDZfiV4v6THbE8v8uXW5KZ4v2dWNuSPlisRuh0w/edit?tab=t.0)  
+* [Presentation](https://docs.google.com/presentation/d/1cD3eTXRKkwDxhWWmHUZalzYyfW9LnDOphEgxXxcn4SI/edit?slide=id.g35a0cee722b_0_0#slide=id.g35a0cee722b_0_0)
+
+## Overview
+
+The purpose of the Freedom Project was to create an informal website that talks about present and future technology related to a topic you are interested in. I chose animation because it’s something I’m really interested in. Throughout the year I worked on the project and took notes on blogs like a journal. I started by researching current technology used in animation and then came up with an idea for a future invention. I also learned how to use tools like HTML, CSS, an IDE for GitHub, and a personal tool which for me was Bulma CSS to build the final project. My project could have a positive impact on society by showing how animation technology can grow and help people understand stories better. A possible negative impact is that some people might rely on future tools and forget to build actual skills for animation.
 
 [Previous](entry06.md) | [Next](entry08.md)
 
